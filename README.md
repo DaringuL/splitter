@@ -26,15 +26,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/splitter-default-desktop.png)
-![](./screenshots/splitter-completed-desktop.png)
-![](./screenshots/splitter-completed-mobile.png)
-![](./screenshots/splitter-custom-tip-mobile.png)
+<img src="./screenshots/splitter-default-desktop.png" width="1920">
+<img src="./screenshots/splitter-completed-desktop.png" width="1920">
+<img src="./screenshots/splitter-completed-mobile.png" width="425">
+<img src="./screenshots/splitter-custom-tip-mobile.png" width="425">
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/DaringuL/splitter
+- Live Site URL: https://splitter.herokuapp.com/
 
 ## My process
 
@@ -51,11 +51,9 @@ It was a great opportunity to better understand React hooks, such as useState() 
 ### Continued development
 I still want to figure out how to make warning span for zero persons input, which however wouldn't be shown at default state as long as according to design screenshots default state should be 0.
 
-
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@DaringuL](https://www.frontendmentor.io/profile/DaringuL)
 - Twitter - [@Daringu_L](https://twitter.com/Daringu_L)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
